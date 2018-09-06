@@ -2,7 +2,7 @@
 ###############################################################################
 # Instagram Brute Forcer
 # Developed By Hak9
-# hak9@jabber.de
+# xhak9x@jabber.de
 # !/usr/bin/python
 ###############################################################################
 from __future__ import print_function
